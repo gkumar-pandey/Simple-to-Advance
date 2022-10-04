@@ -1,122 +1,71 @@
-## <h1 align="center">“Talk is cheap. Show me the code.” ~ Linus Torvalds:thought_balloon:</h1>
+# Getting Started with Create React App
 
-<br>
-  <p align="center">
-  <a><img src="https://i.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.webp" alt="image" width="500"></a>
-<br>
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# 🐱‍💻 Simple-to-Advance Web Project (SAWP)
+## Available Scripts
 
-📌 This repository contains many projects based on web development i.e simple-to-advance level projects so that people in this community can easily learn the website development directly in real life project.
+In the project directory, you can run:
 
-📌 100% Open Source. This repository is open to all members of GitHub community.
+### `npm start`
 
-📌 If you think this project is helpful, please add a ⭐ to this repository.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-<br>
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-## 🏷️ To get started
+### `npm test`
 
-1. First, fork the repository.
-2. Clone the forked repository to your local machine.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-```markdown
-git clone https://github.com/your-username/Simple-to-Advance.git
-```
+### `npm run build`
 
-3. Add upstream URL
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-```markdown
-git remote set-url origin https://github.com/your-username/Simple-to-Advance.git
-```
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-4. Create a new branch
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-```markdown
-git checkout -b new_branch_name
-```
+### `npm run eject`
 
-5. Make your contribution
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-6. Commit and push the changes
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-```markdown
-git add .
-git commit -m 'Relevant message'
-git push origin branch_name
-```
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-7. Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo).
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-8. Wait for your PR's review and approval from the maintainers.
+## Learn More
 
-  <br>
-  
-<p align = "center">
-  <image  src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" alt="image" width="200">
-</p>
-  
-  
-#   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width=29> Table of Contents
-- [Project 01: HTML and CSS Epic Login Form](https://github.com/letdummy/Simple-to-Advance/tree/master/01.%20HTML%20and%20CSS%20Epic%20Login%20Form)
-- [Project 02: Basic Static WebPages Chess Content or rules](https://github.com/letdummy/Simple-to-Advance/tree/master/02.%20Basic%20Static%20WebPages%20Chess%20Content%20or%20rules)
-- [Project 03: Mars Rover Image](https://github.com/letdummy/Simple-to-Advance/tree/master/03.%20Mars%20Rover%20Image)
-- [Project 04: Tribute_Page](https://github.com/letdummy/Simple-to-Advance/tree/master/04.%20Tribute_Page)
-- [Project 05: Food Website Landing Page](https://github.com/letdummy/Simple-to-Advance/tree/master/05.%20Food%20Website%20Landing%20Page)
-- [Project 06: Stopwatch](https://github.com/letdummy/Simple-to-Advance/tree/master/06.%20Stopwatch)
-- [Project 07: Drum Kit](https://github.com/letdummy/Simple-to-Advance/tree/master/07.%20Drum%20Kit)
-- [Project 08: PING PONG](https://github.com/letdummy/Simple-to-Advance/tree/master/08.%20PING%20PONG)
-- [Project 09: Guess-My-Number](https://github.com/letdummy/Simple-to-Advance/tree/master/10.%20Guess-My-Number)
-- [Project 10: Suicide Prevention Hosted](https://github.com/letdummy/Simple-to-Advance/tree/master/11.%20Suicide%20Prevention%20Hosted)
-- [Project 11: Calculator](https://github.com/letdummy/Simple-to-Advance/tree/master/12%20.%20Calculator)
-- [Project 12: TO-DO Web App](https://github.com/letdummy/Simple-to-Advance/tree/master/12.%20To-DO%20Web%20App)
-- [Project 13: Survey Form](https://github.com/letdummy/Simple-to-Advance/tree/master/13.%20Survey%20Form)
-- [Project 14: Musical Site Landing Page](https://github.com/letdummy/Simple-to-Advance/tree/master/14.%20Music%20Site%20Landing%20Page)
-- [Project 15: Random Gredient Generator](https://github.com/letdummy/Simple-to-Advance/tree/master/15.%20Random%20Gredient%20Generator)
-- [Project 16: Simple Library Mangagement System](https://github.com/letdummy/Simple-to-Advance/tree/master/16.%20Simple%20Library%20Management%20System)
-- [Project 17: Awesome Animated Signup Form](https://github.com/letdummy/Simple-to-Advance/tree/master/17.%20Awesome%20Animated%20Signup%20Form)
-- [Project 18: Pong Game](https://github.com/letdummy/Simple-to-Advance/tree/master/18.%20Pong%20Game)
-- [Project 19: Crypto Currency website codes](https://github.com/letdummy/Simple-to-Advance/tree/master/19.%20Crypto%20Currency%20website%20codes)
-- [Project 20: Calculator](https://github.com/letdummy/Simple-to-Advance/tree/master/20.%20Calculator)
-- [Project 21: Twitter Clone](https://github.com/letdummy/Simple-to-Advance/tree/master/21.%20Twitter%20Clone)
-- [Project 22: Weather Project](https://github.com/letdummy/Simple-to-Advance/tree/master/22.%20Weather%20Project)
-- [Project 23: RGB Color Game](https://github.com/letdummy/Simple-to-Advance/tree/master/23.%20RGB%20Color%20Game)
-- [Project 24: Netflix Clone](https://github.com/letdummy/Simple-to-Advance/tree/master/24.%20Netflix%20Clone)
-- [Project 25: Memory Card Game](https://github.com/letdummy/Simple-to-Advance/tree/master/23.%20Memory%20Card%20Game)
-- [Project 26: Responsive omnifood project](https://github.com/letdummy/Simple-to-Advance/tree/master/26.%20Responsive%20omnifood%20project)
-- [Project 27: Joke Teller](https://github.com/letdummy/Simple-to-Advance/tree/master/27.%20Joke%20Teller)
-- [Project 28: Random Gredient Generator](https://github.com/letdummy/Simple-to-Advance/tree/master/28.%20Random%20Gredient%20Generator)
-- [Project 29: Crypto Currency website codes](https://github.com/letdummy/Simple-to-Advance/tree/master/29.%20Crypto%20Currency%20website%20codes)
-- [Project 30: Text Modifier](https://github.com/letdummy/Simple-to-Advance/tree/master/30.%20Text%20Modifier)
-- [Project 31: Analog Clock](https://github.com/letdummy/Simple-to-Advance/tree/master/31.%20Analog%20Clock)
-- [Project 32: Minimalist Fitness website](https://github.com/letdummy/Simple-to-Advance/tree/master/32.%20Minimalist%20Fitness%20website)
-- [Project 33: Drawing App](https://github.com/letdummy/Simple-to-Advance/tree/master/33.%20Drawing%20App)
-- [Project 34: Facebook Clone](https://github.com/letdummy/Simple-to-Advance/tree/master/34.%20Facebook%20Clone)
-- [Project 35: Snake Game](https://github.com/letdummy/Simple-to-Advance/tree/master/35.%20Snake%20Game)
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-- [Project 36: Spotify Clone](https://github.com/letdummy/Simple-to-Advance/tree/master/36.%20Spotify%20Clone)
-- [Project 37: Steve Jobs Timeline](https://github.com/letdummy/Simple-to-Advance/tree/master/37.%20Steve%20Jobs%20Timeline)
-- [Project 38: College_Restaurant](https://github.com/letdummy/Simple-to-Advance/tree/master/38.%20College_Restaurant)
-- [Project 39: Food delivery website design](https://github.com/letdummy/Simple-to-Advance/tree/master/39.%20Instagram_login_signup_page%20clone)
-- [Project 40: Javascript Password generator](https://github.com/letdummy/Simple-to-Advance/tree/master/40.%20Javascript%20Password%20generator)
-- [Project 41: Movie API List](https://github.com/letdummy/Simple-to-Advance/tree/master/41.%20Movie%20API%20List)
-- [Project 42: Cash Register in Javascript](https://github.com/letdummy/Simple-to-Advance/tree/master/42.%20Cash%20Register%20in%20Javascript)
-- [Project 43: Harry Potter Quiz A CLI quiz in js](https://github.com/letdummy/Simple-to-Advance/tree/master/43.%20Harry%20Potter%20CLI%20Quiz%20App%20with%20Javascript)
-- [Project 44: Instagram Clone](https://github.com/letdummy/Simple-to-Advance/tree/master/44.%20Instagram%20Clone)
-- [Project 45: Image Compressor](https://github.com/letdummy/Simple-to-Advance/tree/master/45.%20Image%20Compressor)
-- [Project 46: Natours Project](https://github.com/letdummy/Simple-to-Advance/tree/master/46.%20Natours%20Project)
-- [Project 47: Spy number](https://github.com/letdummy/Simple-to-Advance/tree/master/47.%20Spy%20number)
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-  
-  
-## 😄 Shoutout to all the contributors ❤️
+### Code Splitting
 
-note: <i>it will take a few days to update your profile here</i>
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-<a href="https://github.com/letdummy/Simple-to-Advance/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=letdummy/Simple-to-Advance" />
-</a>
-<br>
-<br>
+### Analyzing the Bundle Size
 
-<p align="center">Made with ❤️ by all contributors </p>
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Lofi-Music-player
